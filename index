@@ -1,10 +1,15 @@
+<!DOCTYPE html>
 <html>
-<head>
-	<title>My First JavaScript code!!!</title>
-	<script>
-		alert("Hello World!");
-	</script>
-</head>
-<body>
-</body>
+  <head>
+    <title>My First JavaScript code!!!</title>
+    <meta charset="utf-8">
+    <!--start javascript-->
+    <script>
+      alert('Hello, world!');
+    </script>
+    <!--end javascript-->
+  </head>
+  <body>
+    <h1>Hello, world!</h1>
+  </body>
 </html>
